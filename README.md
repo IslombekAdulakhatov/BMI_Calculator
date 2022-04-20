@@ -1,27 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+BMI Calculator (Swift)
 
-#  BMI Calculator
-
-## Our Goal
-
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
-
-## What you will create
-
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
-
-## What you will learn
-
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+<img width="542" alt="Screen Shot 2022-04-19 at 21 43 32" src="https://user-images.githubusercontent.com/36397876/164152086-db4f115b-7478-4d94-aa76-c8edd7556336.png">
